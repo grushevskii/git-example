@@ -1,4 +1,4 @@
 # git-example
-Assignment I Can Win
-Assignment Bring It On
-Assignment Hurt Me Plenty
+Assignment I Can Win \n
+Assignment Bring It On \n
+Assignment Hurt Me Plenty \n
